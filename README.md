@@ -19,3 +19,9 @@ Thanks to Guido D'Amely, Andrea Avogaro, Geri Skenderi, Federico Cunico, prof. M
 <h3 align="center"> 
 <b><c>Code will be released soon</s></c>
 </h3>
+
+<h2 align="center">Contacts</h1>
+<div align="center">
+Email: sampieri@diag.uniroma1.it
+Linkedin: [Alessio Sampieri](https://www.linkedin.com/in/alessio-sampieri/)
+</div>
