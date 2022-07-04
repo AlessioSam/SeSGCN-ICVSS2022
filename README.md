@@ -11,5 +11,5 @@ A new Separable-Sparse Graph Convolutional Network (SeS-GCN) for pose forecastin
 The work is part of the paper <b>Pose Forecasting in Industrial Human-Robot Collaboration</b> which will be presented at the European Conference on Computer Vision 2022.
 
 <p align="center">
-  <img width="200" src='Images/SampieriAlessio_poster.pdf'>
+  <embed src='Images/SampieriAlessio_poster.pdf' width="800px" height="2100px"/>
 </p>
