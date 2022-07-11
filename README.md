@@ -9,7 +9,10 @@ A new Separable-Sparse Graph Convolutional Network (SeS-GCN) for pose forecastin
 </div>
 
 <div align="center">
-The work is part of the paper <b>Pose Forecasting in Industrial Human-Robot Collaboration</b> which will be presented at the European Conference on Computer Vision 2022.
+The work is part of the paper <b>Pose Forecasting in Industrial Human-Robot Collaboration</b> 
+
+which will be presented at the European Conference on Computer Vision 2022.
+
 Thanks to Guido D'Amely, Andrea Avogaro, Geri Skenderi, Federico Cunico, prof. Marco Cristani and prof. Fabio Galasso.
 </div>
 
@@ -23,5 +26,6 @@ Thanks to Guido D'Amely, Andrea Avogaro, Geri Skenderi, Federico Cunico, prof. M
 <h2 align="center">Contacts</h1>
 <div align="center">
 Email: sampieri@diag.uniroma1.it
-Linkedin: [Alessio Sampieri](https://www.linkedin.com/in/alessio-sampieri/)
+
+Linkedin: <a href="https://www.linkedin.com/in/alessio-sampieri/">Alessio Sampieri</a>
 </div>
