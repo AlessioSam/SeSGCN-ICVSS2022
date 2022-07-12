@@ -16,8 +16,13 @@ which will be presented at the European Conference on Computer Vision 2022.
 Thanks to Guido D'Amely, Andrea Avogaro, Geri Skenderi, Federico Cunico, prof. Marco Cristani and prof. Fabio Galasso.
 </div>
 
+<h3 align="center"> 
+<b>Watch the illustrative <a href="https://drive.google.com/file/d/1wlWvtBoxLy9juCNtH9oRzPbI2eayQrbS/view?usp=sharing">video</a>!</b>
+</h3>
+
 
 ![](Images/SampieriAlessio_poster.jpg)
+
 
 <h3 align="center"> 
 <b><c>Code will be released soon</s></c>
